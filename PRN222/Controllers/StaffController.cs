@@ -16,27 +16,45 @@ namespace PRN222.Controllers
             _systemAccountService = systemAccountService;
             _ser = ser;
         }
-
+        [RoleAuthorize(RequiredRole = "1")]
         public IActionResult Dashboard()
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             return View();
         }
         [HttpGet]
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> ManageCategory()
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             var categories = await _ser.ReadAll();
             return View(categories);
         }
-
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> EditCategory(short id)
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             var category = await _ser.ReadByCondition(c => c.CategoryId == id);
             return View(category);
         }
 
         [HttpPost]
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> EditCategory(string id, Category category)
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             if (ModelState.IsValid)
             {
                 await _ser.Update(id, category);
@@ -44,16 +62,25 @@ namespace PRN222.Controllers
             }
             return View(category);
         }
-
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> DeleteCategory(short id)
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             var category = await _ser.ReadByCondition(c => c.CategoryId == id);
             return View(category);
         }
 
         [HttpPost, ActionName("DeleteCategory")]
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> DeleteConfirmed(short id)
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             var newId = id.ToString();
             var category = await _ser.ReadByCondition(c => c.CategoryId == id);
             if (category != null)
@@ -63,15 +90,24 @@ namespace PRN222.Controllers
             }
             return RedirectToAction("ManageCategory");
         }
-
+        [RoleAuthorize(RequiredRole = "1")]
         public IActionResult CreateCategory()
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             return View();
         }
 
         [HttpPost]
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> CreateCategory(Category category)
         {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
             if (ModelState.IsValid)
             {
                 await _ser.Create(category);
@@ -79,7 +115,7 @@ namespace PRN222.Controllers
             }
             return View(category);
         }
-
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> Profile()
         {
             if (HttpContext.Session.GetString("AccountId") == null)
@@ -93,7 +129,7 @@ namespace PRN222.Controllers
 
             return View(user);
         }
-
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> EditProfile()
         {
             if (HttpContext.Session.GetString("AccountId") == null)
@@ -113,6 +149,7 @@ namespace PRN222.Controllers
         }
 
         [HttpPost]
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> SaveProfile(SystemAccount updatedAccount)
         {
             if (HttpContext.Session.GetString("AccountId") == null)
@@ -138,7 +175,7 @@ namespace PRN222.Controllers
             return RedirectToAction("Profile");
         }
 
-
+        [RoleAuthorize(RequiredRole = "1")]
         public async Task<IActionResult> NewsHistory()
         {
             if (HttpContext.Session.GetString("AccountId") == null)

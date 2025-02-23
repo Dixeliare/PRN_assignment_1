@@ -58,8 +58,12 @@ namespace PRN222.BLL.Services
             if (account != null)
             {
                 await _repos.DeleteAccount(account);
+                return;
             }
-            throw new ArgumentException("Account không tồn tại để xóa.");
+            else
+            {
+                throw new ArgumentException("Account không tồn tại để xóa.");
+            }
         }
 
         public async Task<IEnumerable<SystemAccount>> ReadAll()

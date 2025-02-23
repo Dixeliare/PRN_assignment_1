@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using PRN222.BLL.Services.IServices;
 using PRN222.DAL.Models;
 
@@ -15,10 +16,12 @@ namespace PRN222.Controllers
 
         public async Task<IActionResult> Index()
         {
-            if (!HttpContext.Session.GetString("IsAdmin").Equals("true"))
+            var isAdmin = HttpContext.Session.GetString("IsAdmin");
+            if (string.IsNullOrEmpty(isAdmin) || !isAdmin.Equals("true"))
             {
                 return RedirectToAction("Login", "SystemAccount");
             }
+
             var accounts = await _systemAccountService.ReadAll(); // ✅ Ensure the method is awaited
 
             return View(accounts);
@@ -30,18 +33,18 @@ namespace PRN222.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(SystemAccount account)
+        public async Task<IActionResult> Create(SystemAccount account)
         {
             if (ModelState.IsValid)
             {
-                _systemAccountService.Create(account);
+                await _systemAccountService.Create(account);
                 return RedirectToAction("Index");
             }
             return View(account);
         }
-        public IActionResult Edit(short id)
+        public async Task<IActionResult> Edit(short id)
         {
-            var account = _systemAccountService.GetByAccountId(id);
+            var account = await _systemAccountService.GetByAccountId(id);
             if (account == null)
             {
                 return NotFound();
@@ -50,27 +53,33 @@ namespace PRN222.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(SystemAccount account)
+        public async Task<IActionResult> Edit(SystemAccount account)
         {
             if (ModelState.IsValid)
             {
-                _systemAccountService.Update(account.AccountId.ToString(),account);
+                await _systemAccountService.Update(account.AccountId.ToString(),account);
                 return RedirectToAction("Index");
             }
             return View(account);
         }
-        /// ✅ **Updated Delete Method to Work with AJAX**
-        [HttpPost]
-        public async Task<IActionResult> Delete(short id)
-        {
-            var account = await _systemAccountService.GetByAccountId(id);
-            if (account == null)
-            {
-                return Json(new { success = false, message = "Account not found" });
-            }
 
-            await _systemAccountService.Delete(id.ToString());
-            return Json(new { success = true, message = "Account deleted successfully" });
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            var item = await _systemAccountService.ReadByCondition(a => a.AccountId == id);
+            return View(item);
+        }
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(short id)
+        {
+            SystemAccount account = await _systemAccountService.ReadByCondition(c => c.AccountId == id);
+            if (account != null)
+            {
+                await _systemAccountService.Delete(id.ToString());
+                return Json(new { success = true, message = "Account deleted successfully" });
+                
+            }
+            return Json(new { success = false, message = "Account not found" });
         }
 
     }

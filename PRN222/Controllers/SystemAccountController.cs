@@ -67,7 +67,7 @@ namespace PRN222.Controllers
         public IActionResult Logout()
         {
             HttpContext.Session.Clear(); // Remove all session data
-            return RedirectToAction("Login");
+            return RedirectToAction("NewsPage", "NewsArticle");
         }
     }
 }
