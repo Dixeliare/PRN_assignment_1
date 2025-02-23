@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2 class="text-center mt-4">Staff Dashboard</h2>
+<p class="text-center">Welcome, Staff! Please choose one of the following options:</p>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <!-- Manage Category Information -->
+        <div class="col-md-3 text-center mb-3">
+            <a asp-controller="Category" asp-action="Index" class="btn btn-primary btn-lg btn-block">
+                Manage Category Information
+            </a>
+            <small class="d-block mt-2">
+                (Delete allowed only if category is not used in any news articles)
+            </small>
+        </div>
+
+        <!-- Manage News Articles -->
+        <div class="col-md-3 text-center mb-3">
+            <a asp-controller="NewsArticle" asp-action="Index" class="btn btn-secondary btn-lg btn-block">
+                Manage News Articles
+            </a>
+            <small class="d-block mt-2">
+                (Includes tag management)
+            </small>
+        </div>
+
+        <!-- Manage Profile -->
+        <div class="col-md-3 text-center mb-3">
+            <a asp-controller="Staff" asp-action="Profile" class="btn btn-info btn-lg btn-block">
+                Manage Profile
+            </a>
+        </div>
+
+        <!-- View News History -->
+        <div class="col-md-3 text-center mb-3">
+            <a asp-controller="Staff" asp-action="NewsHistory" class="btn btn-success btn-lg btn-block">
+                View News History
+            </a>
+        </div>
+    </div>
+</div>
