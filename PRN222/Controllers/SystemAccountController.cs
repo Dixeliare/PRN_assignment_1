@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PRN222.BLL.Services.IServices;
+using PRN222.DAL.Models;
+using PRN222.Entity.DTOs;
 
 namespace PRN222.Controllers
 {
@@ -18,5 +20,27 @@ namespace PRN222.Controllers
             return View();
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Login(SystemAccountDTO acc)
+        {
+            if (ModelState.IsValid)
+            {
+                SystemAccount user = await _ser.ReadByCondition(a => a.AccountName == acc.AccountName && a.AccountPassword == acc.AccountPassword);
+                if (user != null)
+                {
+                    if (user.AccountRole.Equals(1))
+                    {
+                        return RedirectToAction("Dashboard", "Staff");
+                    }
+                    else
+                    {
+                        return RedirectToAction("NewsPage", "NewsArticle");
+                    }
+                }
+                ModelState.AddModelError("", "Tên tài khoản hoặc mật khẩu không đúng.");
+            }
+            return View(acc);
+
+        }
     }
 }
