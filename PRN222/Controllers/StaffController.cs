@@ -8,5 +8,15 @@ namespace PRN222.Controllers
         {
             return View();
         }
+
+        public IActionResult Profile()
+        {
+            return View();
+        }
+
+        public IActionResult NewsHistory()
+        {
+            return View();
+        }
     }
 }

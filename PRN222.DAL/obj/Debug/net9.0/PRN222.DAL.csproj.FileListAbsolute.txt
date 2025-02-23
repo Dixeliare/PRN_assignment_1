@@ -27,3 +27,18 @@ C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.DAL\obj\Deb
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.pdb
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.genruntimeconfig.cache
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\ref\PRN222.DAL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\bin\Debug\net9.0\PRN222.DAL.deps.json
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\bin\Debug\net9.0\PRN222.DAL.runtimeconfig.json
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\bin\Debug\net9.0\PRN222.DAL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\bin\Debug\net9.0\PRN222.DAL.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.csproj.AssemblyReference.cache
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.AssemblyInfoInputs.cache
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.AssemblyInfo.cs
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.csproj.CoreCompileInputs.cache
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.sourcelink.json
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\refint\PRN222.DAL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\PRN222.DAL.genruntimeconfig.cache
+D:\workspace\github\PRN_assignment_1\PRN222.DAL\obj\Debug\net9.0\ref\PRN222.DAL.dll

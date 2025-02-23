@@ -28,23 +28,30 @@ namespace PRN222.Controllers
                 SystemAccount user = await _ser.ReadByCondition(a => a.AccountName == acc.AccountName && a.AccountPassword == acc.AccountPassword);
                 if (user != null)
                 {
-                    if (user.AccountRole.Equals(1))
+                    // Store user details in session
+                    HttpContext.Session.SetString("UserId", user.AccountId.ToString());
+                    HttpContext.Session.SetString("UserName", user.AccountName);
+                    HttpContext.Session.SetString("UserRole", user.AccountRole.ToString());
+
+                    // Redirect based on role
+                    return user.AccountRole switch
                     {
-                        return RedirectToAction("Dashboard", "Staff");
-                    } else
-                    if (user.AccountRole.Equals(2))
-                    {
-                        return RedirectToAction("NewsPage", "NewsArticle");
-                    }
-                    else
-                    {
-                        return RedirectToAction("NewsPage", "NewsArticle");
-                    }
+                        1 => RedirectToAction("Dashboard", "Staff"),
+                        2 => RedirectToAction("NewsPage", "NewsArticle"),
+                        _ => RedirectToAction("NewsPage", "NewsArticle")
+                    };
                 }
+
                 ModelState.AddModelError("", "Tên tài khoản hoặc mật khẩu không đúng.");
             }
             return View(acc);
+        }
 
+        [HttpGet]
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear(); // Remove all session data
+            return RedirectToAction("Login");
         }
     }
 }
