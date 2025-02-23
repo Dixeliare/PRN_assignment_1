@@ -27,7 +27,7 @@ namespace PRN222.DAL.Repositories
 
         public async Task DeleteParentCategory(Category entity)
         {
-            var parentCategory = await GetByCondition(c => c.ParentCategoryId == entity.ParentCategoryId);
+            var parentCategory = GetByCondition(c => c.ParentCategoryId == entity.ParentCategoryId);
             if (parentCategory != null)
             {
                 _context.Remove(parentCategory);

@@ -1,0 +1,63 @@
+﻿@model PRN222.DAL.Models.SystemAccount
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container ">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <div class="card shadow-lg border-0 rounded">
+                <div class="card-header bg-primary text-white text-center">
+                    <h4>User Profile</h4>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <!-- Left Side: Profile Image (4/12) -->
+                        <div class="col-md-4 text-center">
+                            <img src="https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_640.png"
+                                 class="rounded-circle border img-fluid"
+                                 alt="Profile Image" width="180" height="180">
+                        </div>
+
+                        <!-- Right Side: User Info (8/12) -->
+                        <div class="col-md-8">
+                            <dl class="row">
+                                <dt class="col-sm-4">Account Name:</dt>
+                                <dd class="col-sm-8">@Model.AccountName</dd>
+
+                                <dt class="col-sm-4">Email:</dt>
+                                <dd class="col-sm-8">@Model.AccountEmail</dd>
+
+                                <dt class="col-sm-4">Role:</dt>
+                                <dd class="col-sm-8">
+                                    @if (Model.AccountRole == 1)
+                                    {
+                                        <span class="badge bg-success">Admin</span>
+                                    }
+                                    else if (Model.AccountRole == 2)
+                                    {
+                                        <span class="badge bg-info">Editor</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-secondary">User</span>
+                                    }
+                                </dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-footer text-center">
+                    <a asp-controller="Staff" asp-action="EditProfile" class="btn btn-outline-primary">
+                        <i class="bi bi-pencil-square"></i> Edit Profile
+                    </a>
+                    <a asp-controller="SystemAccount" asp-action="Logout" class="btn btn-outline-danger">
+                        <i class="bi bi-box-arrow-right"></i> Logout
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

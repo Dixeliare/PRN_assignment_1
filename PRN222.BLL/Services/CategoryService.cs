@@ -34,7 +34,7 @@ namespace PRN222.BLL.Services
 
             //entity.CategoryId = newCategoryId;
 
-            var category = new Category 
+            var category = new Category
             {
                 CategoryId = entity.CategoryId,
                 CategoryName = entity.CategoryName,
@@ -42,8 +42,8 @@ namespace PRN222.BLL.Services
                 ParentCategoryId = entity.ParentCategoryId,
                 IsActive = entity.IsActive,
             };
-            if (category.CategoryName is not string 
-                || category.CategoryDesciption is not string 
+            if (category.CategoryName is not string
+                || category.CategoryDesciption is not string
                 || category.IsActive is not bool)
                 throw new ArgumentException("Giá trị của category không hợp lệ.");
 

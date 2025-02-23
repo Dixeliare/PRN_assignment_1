@@ -67,6 +67,12 @@ namespace PRN222.BLL.Services
             return await _repos.GetAll();
         }
 
+        public async Task<SystemAccount> GetByAccountId(int id)
+        {
+
+            return await _repos.GetByCondition(a => a.AccountId == id);
+        }
+
         public async Task<SystemAccount> ReadByCondition(Expression<Func<SystemAccount, bool>> expression)
         {
             return await _repos.GetByCondition(expression);

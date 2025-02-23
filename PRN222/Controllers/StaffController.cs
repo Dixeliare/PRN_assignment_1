@@ -1,23 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PRN222.BLL.Services.IServices;
 using PRN222.DAL.Models;
-using PRN222.Entity.DTOs;
 
 namespace PRN222.Controllers
 {
     public class StaffController : Controller
     {
+        private readonly INewsArticleService _newsService;
+        private readonly ISystemAccountService _systemAccountService;
         private readonly ICategoryService _ser;
 
-        public StaffController(ICategoryService ser)
+        public StaffController(INewsArticleService newsService, ISystemAccountService systemAccountService, ICategoryService ser)
         {
+            _newsService = newsService;
+            _systemAccountService = systemAccountService;
             _ser = ser;
         }
+
         public IActionResult Dashboard()
         {
             return View();
         }
-
         [HttpGet]
         public async Task<IActionResult> ManageCategory()
         {
@@ -26,13 +29,13 @@ namespace PRN222.Controllers
         }
 
         public async Task<IActionResult> EditCategory(short id)
-        { 
+        {
             var category = await _ser.ReadByCondition(c => c.CategoryId == id);
             return View(category);
         }
 
         [HttpPost]
-        public async Task<IActionResult> EditCategory(string id,Category category)
+        public async Task<IActionResult> EditCategory(string id, Category category)
         {
             if (ModelState.IsValid)
             {
@@ -76,5 +79,78 @@ namespace PRN222.Controllers
             }
             return View(category);
         }
-    }    
+
+        public async Task<IActionResult> Profile()
+        {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
+            string userIdString = HttpContext.Session.GetString("AccountId");
+            int userId = int.Parse(userIdString);
+
+            var user = await _systemAccountService.GetByAccountId(userId);
+
+            return View(user);
+        }
+
+        public async Task<IActionResult> EditProfile()
+        {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
+            string userIdString = HttpContext.Session.GetString("AccountId");
+            int userId = int.Parse(userIdString);
+            var user = await _systemAccountService.GetByAccountId(userId);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return View(user);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> SaveProfile(SystemAccount updatedAccount)
+        {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
+            string userIdString = HttpContext.Session.GetString("AccountId");
+            int userId = int.Parse(userIdString);
+            var account = await _systemAccountService.GetByAccountId(userId);
+
+            if (account == null)
+            {
+                return NotFound();
+            }
+
+            // Update properties
+            account.AccountName = updatedAccount.AccountName;
+            account.AccountEmail = updatedAccount.AccountEmail;
+
+            await _systemAccountService.Update(userIdString, account);
+
+            TempData["SuccessMessage"] = "Profile updated successfully!";
+            return RedirectToAction("Profile");
+        }
+
+
+        public async Task<IActionResult> NewsHistory()
+        {
+            if (HttpContext.Session.GetString("AccountId") == null)
+            {
+                return RedirectToAction("Login", "SystemAccount");
+            }
+            int userId = int.Parse(HttpContext.Session.GetString("AccountId"));
+
+            var newsArticles = await _newsService.ReadByCreatedId(userId);
+
+            return View(newsArticles);
+        }
+
+    }
 }

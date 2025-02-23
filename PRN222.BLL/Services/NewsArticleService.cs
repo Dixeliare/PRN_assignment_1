@@ -56,13 +56,13 @@ namespace PRN222.BLL.Services
                 CreatedById = entity.CreatedById,
             };
 
-            if (newsArticle.NewsTitle is not string 
-                || newsArticle.Headline is not string 
-                || newsArticle.CreatedDate is not DateTime 
-                || newsArticle.NewsContent is not string 
-                || newsArticle.NewsSource is not string 
-                || newsArticle.CategoryId is not short 
-                || newsArticle.NewsStatus is not bool 
+            if (newsArticle.NewsTitle is not string
+                || newsArticle.Headline is not string
+                || newsArticle.CreatedDate is not DateTime
+                || newsArticle.NewsContent is not string
+                || newsArticle.NewsSource is not string
+                || newsArticle.CategoryId is not short
+                || newsArticle.NewsStatus is not bool
                 || newsArticle.CreatedById is not short)
             {
                 throw new ArgumentException("Có thể một trong số các giá trị của NewsArticle không hợp lệ.");
@@ -90,6 +90,12 @@ namespace PRN222.BLL.Services
         public async Task<NewsArticle> ReadByCondition(Expression<Func<NewsArticle, bool>> expression)
         {
             return await _repos.GetByCondition(expression);
+        }
+
+        public async Task<IEnumerable<NewsArticle>> ReadByCreatedId(int userId)
+        {
+            var allNews = await _repos.GetAll();
+            return allNews.Where(n => n.CreatedById == userId).ToList();
         }
 
         public async Task Update(string id, NewsArticle entity)

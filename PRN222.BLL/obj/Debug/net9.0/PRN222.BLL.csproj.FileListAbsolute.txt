@@ -29,3 +29,34 @@ C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Deb
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\refint\PRN222.BLL.dll
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.pdb
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\ref\PRN222.BLL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.deps.json
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.DAL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.DAL.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.AssemblyReference.cache
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.AssemblyInfoInputs.cache
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.AssemblyInfo.cs
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.CoreCompileInputs.cache
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.sourcelink.json
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.Up2Date
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\refint\PRN222.BLL.dll
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\ref\PRN222.BLL.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.deps.json
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.pdb
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\bin\Debug\net9.0\PRN222.DAL.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\bin\Debug\net9.0\PRN222.DAL.pdb
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.Up2Date
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\refint\PRN222.BLL.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.pdb
+C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\ref\PRN222.BLL.dll

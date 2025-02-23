@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model PRN222.DAL.Models.SystemAccount
+
+<h2>Create New Account</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label class="form-label">Username</label>
+        <input asp-for="AccountName" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Email</label>
+        <input asp-for="AccountEmail" class="form-control" type="email" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Role</label>
+        <select asp-for="AccountRole" class="form-control">
+            <option value="1">Admin</option>
+            <option value="2">User</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Password</label>
+        <input asp-for="AccountPassword" class="form-control" type="password" required />
+    </div>
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using PRN222;
 using PRN222.BLL.Services;
 using PRN222.BLL.Services.IServices;
 using PRN222.DAL.Models;
@@ -11,6 +12,18 @@ builder.Services.AddDbContext<PRN222Context>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+// Add session support
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Session timeout
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+// Add services to the container
+builder.Services.Configure<AdminAccount>(builder.Configuration.GetSection("AdminAccount"));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -34,6 +47,9 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// Configure the HTTP request pipeline
+app.UseSession(); // Enable session
+
 app.UseHttpsRedirection();
 app.UseRouting();
 
@@ -45,6 +61,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
+
 
 
 app.Run();

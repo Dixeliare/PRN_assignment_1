@@ -9,5 +9,6 @@ namespace PRN222.BLL.Services.IServices
 {
     public interface ISystemAccountService : IServiceBase<SystemAccount>
     {
+        Task<SystemAccount> GetByAccountId(int id);
     }
 }

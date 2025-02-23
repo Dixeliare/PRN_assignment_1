@@ -21,3 +21,26 @@ C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\refint\PRN222.Entity.dll
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.pdb
 C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\ref\PRN222.Entity.dll
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.deps.json
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.dll
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.AssemblyInfoInputs.cache
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.AssemblyInfo.cs
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.csproj.CoreCompileInputs.cache
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.sourcelink.json
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.dll
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\refint\PRN222.Entity.dll
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.pdb
+D:\workspace\github\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\ref\PRN222.Entity.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.deps.json
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.pdb
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\refint\PRN222.Entity.dll
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.pdb
+C:\Users\LENOVO\Desktop\New folder\PRN222.Entity\obj\Debug\net9.0\ref\PRN222.Entity.dll

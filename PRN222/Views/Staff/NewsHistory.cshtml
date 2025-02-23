@@ -1,0 +1,67 @@
+﻿@model IEnumerable<PRN222.DAL.Models.NewsArticle>
+
+@{
+    ViewData["Title"] = "News History";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">📰 Your News</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">You have not created any news articles yet.</div>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Title</th>
+                    <th>Headline</th>
+                    <th>Category</th>
+                    <th>Created Date</th>
+                    <th>Modified Date</th>
+                    <th>Status</th>
+                    <th>Tags</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int index = 1;
+                }
+                @foreach (var news in Model)
+                {
+                    <tr>
+                        <td>@index</td>
+                        <td>@(string.IsNullOrEmpty(news.NewsTitle) ? "No Title" : news.NewsTitle)</td>
+                        <td>@news.Headline</td>
+                        <td>@(news.Category != null ? news.Category.CategoryName : "Uncategorized")</td>
+                        <td>@(news.CreatedDate?.ToString("yyyy-MM-dd") ?? "N/A")</td>
+                        <td>@(news.ModifiedDate?.ToString("yyyy-MM-dd") ?? "N/A")</td>
+                        <td>
+                            <span class="badge @(news.NewsStatus == true ? "bg-success" : "bg-warning")">
+                                @(news.NewsStatus == true ? "Published" : "Draft")
+                            </span>
+                        </td>
+                        <td>
+                            @if (news.Tags != null && news.Tags.Any())
+                            {
+                                @foreach (var tag in news.Tags)
+                                {
+                                    <span class="badge bg-secondary">@tag.TagName</span>
+                                }
+                            }
+                            else
+                            {
+                                <span class="text-muted">No Tags</span>
+                            }
+                        </td>
+                        
+                    </tr>
+                    index++;
+                }
+            </tbody>
+        </table>
+    }
+</div>

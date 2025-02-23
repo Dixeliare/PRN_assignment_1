@@ -9,5 +9,6 @@ namespace PRN222.BLL.Services.IServices
 {
     public interface INewsArticleService : IServiceBase<NewsArticle>
     {
+        Task<IEnumerable<NewsArticle>> ReadByCreatedId(int userId);
     }
 }

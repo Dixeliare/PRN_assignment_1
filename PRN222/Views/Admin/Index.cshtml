@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PRN222.DAL.Models.SystemAccount>
+
+@{
+    ViewData["Title"] = "Manage Accounts";
+}
+
+<h2>Manage Accounts</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create">Create New Account</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var account in Model)
+        {
+            <tr id="row-@account.AccountId">
+                <td>@account.AccountId</td>
+                <td>@account.AccountName</td>
+                <td>@account.AccountEmail</td>
+                <td>@(account.AccountRole == 1 ? "Admin" : "User")</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@account.AccountId">Edit</a>
+                    <button class="btn btn-danger btn-sm" onclick="deleteAccount(@account.AccountId)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function deleteAccount(accountId) {
+        if (confirm("Are you sure you want to delete this account?")) {
+            fetch(`/Admin/Delete`, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ id: accountId })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    document.getElementById(`row-${accountId}`).remove();
+                    alert(data.message);
+                } else {
+                    alert("Error: " + data.message);
+                }
+            })
+            .catch(error => alert("An error occurred while deleting the account."));
+        }
+    }
+</script>
