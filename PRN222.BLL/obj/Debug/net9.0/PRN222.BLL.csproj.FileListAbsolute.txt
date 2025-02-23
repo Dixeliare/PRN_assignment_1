@@ -13,3 +13,19 @@ C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.BLL\obj\Debug\net9.0\PRN222.
 C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.BLL\obj\Debug\net9.0\refint\PRN222.BLL.dll
 C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.pdb
 C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.BLL\obj\Debug\net9.0\ref\PRN222.BLL.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.deps.json
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.BLL.pdb
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.DAL.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.DAL.pdb
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.AssemblyReference.cache
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.AssemblyInfoInputs.cache
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.AssemblyInfo.cs
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.CoreCompileInputs.cache
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.sourcelink.json
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.csproj.Up2Date
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\refint\PRN222.BLL.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.pdb
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\obj\Debug\net9.0\ref\PRN222.BLL.dll

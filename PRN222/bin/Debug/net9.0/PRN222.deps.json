@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "9.0.2",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.2",
-          "PRN222.BLL": "1.0.0"
+          "PRN222.BLL": "1.0.0",
+          "PRN222.Entity": "1.0.0"
         },
         "runtime": {
           "PRN222.dll": {}
@@ -960,6 +961,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "PRN222.Entity/1.0.0": {
+        "runtime": {
+          "PRN222.Entity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1528,6 +1537,11 @@
       "sha512": ""
     },
     "PRN222.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PRN222.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -37,7 +37,7 @@ namespace PRN222.DAL.Repositories
 
         public async Task<IEnumerable<NewsArticle>> GetAll()
         {
-            return await _context.NewsArticles.Include(c => c.Category).ToListAsync();
+            return await _context.NewsArticles.Include(c => c.Category).Include(s => s.CreatedBy).ToListAsync();
         }
 
         public async Task<NewsArticle?> GetByCondition(Expression<Func<NewsArticle, bool>> expression)

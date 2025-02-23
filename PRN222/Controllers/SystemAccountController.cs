@@ -3,11 +3,11 @@ using PRN222.BLL.Services.IServices;
 
 namespace PRN222.Controllers
 {
-    public class SystemAccountControlller : Controller
+    public class SystemAccountController : Controller
     {
         private readonly ISystemAccountService _ser;
 
-        public SystemAccountControlller(ISystemAccountService ser)
+        public SystemAccountController(ISystemAccountService ser)
         {
             _ser = ser;
         }
@@ -18,6 +18,5 @@ namespace PRN222.Controllers
             return View();
         }
 
-        
     }
 }

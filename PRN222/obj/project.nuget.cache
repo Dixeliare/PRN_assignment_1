@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9W5T89Sywfc=",
+  "dgSpecHash": "5HTGQ+ucUFs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\PRN222.csproj",
+  "projectFilePath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222\\PRN222.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daoxu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\daoxu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\PRN222.BLL.csproj": {}
+    "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.BLL\\PRN222.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\PRN222.BLL.csproj": {
+    "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.BLL\\PRN222.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\PRN222.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.BLL\\PRN222.BLL.csproj",
         "projectName": "PRN222.BLL",
-        "projectPath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\PRN222.BLL.csproj",
+        "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.BLL\\PRN222.BLL.csproj",
         "packagesPath": "C:\\Users\\daoxu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\obj\\",
+        "outputPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\PRN222.DAL.csproj": {
-                "projectPath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\PRN222.DAL.csproj"
+              "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj": {
+                "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\PRN222.DAL.csproj": {
+    "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\PRN222.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj",
         "projectName": "PRN222.DAL",
-        "projectPath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\PRN222.DAL.csproj",
+        "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj",
         "packagesPath": "C:\\Users\\daoxu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\obj\\",
+        "outputPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

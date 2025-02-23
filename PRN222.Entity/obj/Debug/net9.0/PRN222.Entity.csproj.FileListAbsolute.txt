@@ -9,3 +9,15 @@ C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.Entity\obj\Debug\net9.0\PRN2
 C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.Entity\obj\Debug\net9.0\refint\PRN222.Entity.dll
 C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.pdb
 C:\Users\daoxu\source\repos\PRN222\Asignment\PRN222.Entity\obj\Debug\net9.0\ref\PRN222.Entity.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.deps.json
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\bin\Debug\net9.0\PRN222.Entity.pdb
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.AssemblyInfoInputs.cache
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.AssemblyInfo.cs
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.csproj.CoreCompileInputs.cache
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.sourcelink.json
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\refint\PRN222.Entity.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\PRN222.Entity.pdb
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.Entity\obj\Debug\net9.0\ref\PRN222.Entity.dll

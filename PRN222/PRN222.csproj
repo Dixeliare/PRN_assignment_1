@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PRN222.BLL\PRN222.BLL.csproj" />
+    <ProjectReference Include="..\PRN222.Entity\PRN222.Entity.csproj" />
   </ItemGroup>
 
 </Project>
