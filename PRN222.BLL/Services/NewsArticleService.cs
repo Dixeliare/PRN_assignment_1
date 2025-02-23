@@ -41,6 +41,7 @@ namespace PRN222.BLL.Services
             }
 
             entity.NewsArticleId = newId.ToString();
+            entity.CreatedDate = DateTime.Now;
 
             var newsArticle = new NewsArticle
             {

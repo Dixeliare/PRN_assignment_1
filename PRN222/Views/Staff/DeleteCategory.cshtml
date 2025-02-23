@@ -1,0 +1,32 @@
+﻿@model PRN222.DAL.Models.Category
+
+@{
+    ViewData["Title"] = "Delete Category";
+}
+
+<h2>Xác nhận xóa danh mục</h2>
+<hr />
+
+<div>
+    <h4>Chi tiết danh mục</h4>
+    <dl class="row">
+        <dt class="col-sm-2">ID</dt>
+        <dd class="col-sm-10">@Model.CategoryId</dd>
+        <dt class="col-sm-2">Tên danh mục</dt>
+        <dd class="col-sm-10">@Model.CategoryName</dd>
+        <dt class="col-sm-2">Mô tả</dt>
+        <dd class="col-sm-10">@Model.CategoryDesciption</dd>
+        <dt class="col-sm-2">Trạng thái</dt>
+        <dd class="col-sm-10">@Model.IsActive</dd>
+        <dt class="col-sm-2">Danh mục cha</dt>
+        <dd class="col-sm-10">@Model.ParentCategory?.CategoryName</dd>
+    </dl>
+</div>
+
+<p>Bạn có chắc chắn muốn xóa danh mục này?</p>
+
+<form asp-action="DeleteCategory" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="ManageCategory" class="btn btn-secondary">Cancel</a>
+</form>

@@ -21,18 +21,18 @@ namespace PRN222.BLL.Services
 
         public async Task Create(Category entity)
         {
-            var categories = await _repos.GetAll();
-            short newCategoryId = 1;
-            foreach (var item in categories)
-            {
-                if (item.CategoryId == newCategoryId)
-                {
-                    newCategoryId += 1;
-                }
-                else break;
-            }
+            //var categories = await _repos.GetAll();
+            //short newCategoryId = 1;
+            //foreach (var item in categories)
+            //{
+            //    if (item.CategoryId == newCategoryId)
+            //    {
+            //        newCategoryId += 1;
+            //    }
+            //    else break;
+            //}
 
-            entity.CategoryId = newCategoryId;
+            //entity.CategoryId = newCategoryId;
 
             var category = new Category 
             {

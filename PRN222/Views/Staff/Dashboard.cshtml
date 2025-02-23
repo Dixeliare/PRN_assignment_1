@@ -9,8 +9,8 @@
     <div class="row justify-content-center">
         <!-- Manage Category Information -->
         <div class="col-md-3 text-center mb-3">
-            <a asp-controller="Category" asp-action="Index" class="btn btn-primary btn-lg btn-block">
-                Manage Category Information
+            <a asp-controller="Staff" asp-action="ManageCategory" class="btn btn-primary btn-lg btn-block">
+                Quản lý thông tin danh mục
             </a>
             <small class="d-block mt-2">
                 (Delete allowed only if category is not used in any news articles)
@@ -19,8 +19,8 @@
 
         <!-- Manage News Articles -->
         <div class="col-md-3 text-center mb-3">
-            <a asp-controller="NewsArticle" asp-action="Index" class="btn btn-secondary btn-lg btn-block">
-                Manage News Articles
+            <a asp-controller="NewsArticle" asp-action="ManageNewsArticle" class="btn btn-secondary btn-lg btn-block">
+                Quản lý bài viết
             </a>
             <small class="d-block mt-2">
                 (Includes tag management)

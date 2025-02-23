@@ -3,36 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\newsarticle\\newspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\newsarticle\\newspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\staff\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\staff\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.dal\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\newsarticle\\managenewsarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\newsarticle\\managenewsarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\newsarticle\\deletenewsarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\newsarticle\\deletenewsarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\staff\\managecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\staff\\managecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\staff\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\staff\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\newsarticle\\createnewsarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\newsarticle\\createnewsarticle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\staff\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\staff\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\systemaccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.bll\\services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.bll\\prn222.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.entity\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\systemaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.bll\\services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.bll\\services\\iservices\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.entity\\prn222.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.bll\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.entity\\dtos\\newsarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.entity\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.entity\\dtos\\systemaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -48,28 +140,8 @@
       "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222.dal\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,18 +150,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\prn_assignment_1\\prn222\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -195,16 +255,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 330,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteNewsArticle.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\DeleteNewsArticle.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewsArticle\\DeleteNewsArticle.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\DeleteNewsArticle.cshtml",
+              "RelativeToolTip": "Views\\NewsArticle\\DeleteNewsArticle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:18:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\ManageCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\ManageCategory.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\ManageCategory.cshtml",
+              "RelativeToolTip": "Views\\Staff\\ManageCategory.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T09:15:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\DeleteCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\DeleteCategory.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\DeleteCategory.cshtml",
+              "RelativeToolTip": "Views\\Staff\\DeleteCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:08:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Staff\\Dashboard.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T08:50:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\NewsPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewsArticle\\NewsPage.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\NewsPage.cshtml",
+              "RelativeToolTip": "Views\\NewsArticle\\NewsPage.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T17:06:27.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageNewsArticle.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\ManageNewsArticle.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewsArticle\\ManageNewsArticle.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\ManageNewsArticle.cshtml",
+              "RelativeToolTip": "Views\\NewsArticle\\ManageNewsArticle.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:49:50.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:02:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:04:30.594Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T09:07:27.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\EditCategory.cshtml",
+              "RelativeToolTip": "Views\\Staff\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T10:00:02.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Staff\\CreateCategory.cshtml",
+              "RelativeToolTip": "Views\\Staff\\CreateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T12:56:59.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\SystemAccount\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\SystemAccount\\Login.cshtml",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\SystemAccount\\Login.cshtml*",
-              "RelativeToolTip": "Views\\SystemAccount\\Login.cshtml*",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\SystemAccount\\Login.cshtml",
+              "RelativeToolTip": "Views\\SystemAccount\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-23T08:31:06.229Z",
@@ -212,20 +419,241 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "CreateNewsArticle.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\CreateNewsArticle.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewsArticle\\CreateNewsArticle.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\CreateNewsArticle.cshtml",
+              "RelativeToolTip": "Views\\NewsArticle\\CreateNewsArticle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:04:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:41:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:41:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:26:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "Models\\NewsArticle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:28:20.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:49:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewsArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\NewsArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsArticleController.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\NewsArticleController.cs",
+              "RelativeToolTip": "Controllers\\NewsArticleController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:04:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PRN222.BLL",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\PRN222.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\PRN222.BLL.csproj",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\PRN222.BLL.csproj",
+              "RelativeToolTip": "..\\PRN222.BLL\\PRN222.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T14:05:22.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:10:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Controllers\\StaffController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:49:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\CategoryService.cs",
               "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\CategoryService.cs",
               "RelativeToolTip": "..\\PRN222.BLL\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwIMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T08:20:04.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:26:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:03:00.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SystemAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\SystemAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SystemAccountController.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\SystemAccountController.cs",
+              "RelativeToolTip": "Controllers\\SystemAccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:56:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:13:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:13:15.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:37:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PRN222.Entity",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\PRN222.Entity.csproj",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\PRN222.Entity.csproj",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\PRN222.Entity.csproj",
+              "RelativeToolTip": "..\\PRN222.Entity\\PRN222.Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T09:53:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "SystemAccountService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.BLL\\Services\\SystemAccountService.cs",
               "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\SystemAccountService.cs",
@@ -238,50 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NewsArticleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
-              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
-              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:03:06.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SystemAccountController.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\SystemAccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SystemAccountController.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\SystemAccountController.cs",
-              "RelativeToolTip": "Controllers\\SystemAccountController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T16:56:04.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewsPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\NewsPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\NewsArticle\\NewsPage.cshtml",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\NewsArticle\\NewsPage.cshtml",
-              "RelativeToolTip": "Views\\NewsArticle\\NewsPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T17:06:27.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 30,
               "Title": "SystemAccount.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\SystemAccount.cs",
               "RelativeDocumentMoniker": "Models\\SystemAccount.cs",
@@ -294,20 +679,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
-              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "NewsArticleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:03:00.576Z",
+              "WhenOpened": "2025-02-23T08:03:06.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 34,
               "Title": "SystemAccountDTO.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
               "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
@@ -320,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -333,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 35,
               "Title": "TagDTO.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.Entity\\DTOs\\TagDTO.cs",
               "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\TagDTO.cs",
@@ -346,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "PRN222",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\PRN222.csproj",
               "RelativeDocumentMoniker": "PRN222.csproj",
@@ -359,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "NewsArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
               "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
@@ -372,46 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NewsArticleController.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\NewsArticleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NewsArticleController.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\NewsArticleController.cs",
-              "RelativeToolTip": "Controllers\\NewsArticleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:04:22.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "NewsArticle.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\NewsArticle.cs",
-              "RelativeDocumentMoniker": "Models\\NewsArticle.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\NewsArticle.cs",
-              "RelativeToolTip": "Models\\NewsArticle.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:28:20.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:26:59.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "NewsArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
@@ -423,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 48,
               "Title": "NewsArticle.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\NewsArticle.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\NewsArticle.cs",
@@ -435,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Category.cs",
@@ -447,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 46,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Tag.cs",
@@ -459,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "SystemAccountDTO.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
@@ -471,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 44,
               "Title": "TagDTO.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\TagDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\TagDTO.cs",
@@ -483,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "NewsArticleDTO.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
@@ -495,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 51,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
@@ -507,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "PRN222.Entity.csproj",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\PRN222.Entity.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\PRN222.Entity.csproj",
@@ -519,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -531,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "TagService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\TagService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\TagService.cs",
@@ -543,7 +889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 38,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Models\\Tag.cs",
@@ -555,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 54,
               "Title": "SystemAccountService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\SystemAccountService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\SystemAccountService.cs",
@@ -567,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 55,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\CategoryService.cs",
@@ -579,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 56,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
@@ -591,31 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T13:41:03.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T09:07:27.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 57,
               "Title": "NewsArticleService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\NewsArticleService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\NewsArticleService.cs",
@@ -627,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 58,
               "Title": "SystemAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\SystemAccountRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\SystemAccountRepository.cs",
@@ -639,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 59,
               "Title": "TagRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\TagRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\TagRepository.cs",
@@ -651,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 60,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
@@ -663,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -675,19 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T13:41:03.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 61,
               "Title": "SystemAccount.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\SystemAccount.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\SystemAccount.cs",
@@ -699,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 62,
               "Title": "ITagService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ITagService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ITagService.cs",
@@ -711,31 +1021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:37:34.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:49:31.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 63,
               "Title": "IServiceBase.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
@@ -747,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 64,
               "Title": "INewsArticleService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\INewsArticleService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\INewsArticleService.cs",
@@ -759,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -771,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -783,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 43,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\daoxu\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\PRN_assignment_1\\PRN222\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -795,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 65,
               "Title": "ISystemAccountService.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ISystemAccountService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ISystemAccountService.cs",
@@ -807,7 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 66,
               "Title": "PRN222Context.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\PRN222Context.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\PRN222Context.cs",
@@ -819,7 +1105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 67,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ICategoryRepository.cs",
@@ -831,7 +1117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 68,
               "Title": "ITagRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ITagRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ITagRepository.cs",
@@ -843,7 +1129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 69,
               "Title": "ISystemAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ISystemAccountRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ISystemAccountRepository.cs",
@@ -855,7 +1141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 70,
               "Title": "INewsArticleRepository.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\INewsArticleRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\INewsArticleRepository.cs",
@@ -867,7 +1153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 71,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\IRepositoryBase.cs",
