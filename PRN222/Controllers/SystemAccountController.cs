@@ -31,6 +31,10 @@ namespace PRN222.Controllers
                     if (user.AccountRole.Equals(1))
                     {
                         return RedirectToAction("Dashboard", "Staff");
+                    } else
+                    if (user.AccountRole.Equals(2))
+                    {
+                        return RedirectToAction("NewsPage", "NewsArticle");
                     }
                     else
                     {
