@@ -1,0 +1,788 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\controllers\\systemaccountcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\systemaccountcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\newsarticle\\newspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\newsarticle\\newspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.entity\\dtos\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.entity\\dtos\\systemaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.entity\\dtos\\newsarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.entity\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB47247-0F3F-4C0F-A181-46A351048F9A}|..\\PRN222.Entity\\PRN222.Entity.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.entity\\prn222.entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\iservices\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\iservices\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\iservices\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C33E8D59-DE6F-4AEF-95D2-D2D842F4A12A}|PRN222.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059609E-F008-4453-87A9-8131EDA6DC57}|..\\PRN222.BLL\\PRN222.BLL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.bll\\services\\iservices\\isystemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\models\\prn222context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\irepositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\irepositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\irepositories\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D9C8ED-703A-4EDF-B41C-4607FED9C13A}|..\\PRN222.DAL\\PRN222.DAL.csproj|c:\\users\\daoxu\\source\\repos\\prn222\\asignment\\prn222.dal\\repositories\\irepositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\TagDTO.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\TagDTO.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\TagDTO.cs",
+              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\TagDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:16:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SystemAccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
+              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\SystemAccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:16:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "Models\\NewsArticle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:28:20.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Controllers\\NewsArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsArticleController.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Controllers\\NewsArticleController.cs",
+              "RelativeToolTip": "Controllers\\NewsArticleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:04:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\NewsArticle\\NewsPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewsArticle\\NewsPage.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\NewsArticle\\NewsPage.cshtml",
+              "RelativeToolTip": "Views\\NewsArticle\\NewsPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T17:06:27.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Tag.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:29:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:39:59.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\NewsArticle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:27:37.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\NewsArticleRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:46:07.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemAccountControlller.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Controllers\\SystemAccountControlller.cs",
+              "RelativeDocumentMoniker": "Controllers\\SystemAccountControlller.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Controllers\\SystemAccountControlller.cs*",
+              "RelativeToolTip": "Controllers\\SystemAccountControlller.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:56:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "Models\\SystemAccount.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "Models\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:27:18.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsArticleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\NewsArticleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:17:22.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "..\\PRN222.Entity\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:16:14.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:26:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PRN222.Entity",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\PRN222.Entity.csproj",
+              "RelativeDocumentMoniker": "..\\PRN222.Entity\\PRN222.Entity.csproj",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.Entity\\PRN222.Entity.csproj",
+              "RelativeToolTip": "..\\PRN222.Entity\\PRN222.Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T05:15:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:54:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T04:42:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\TagService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\TagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:37:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:29:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SystemAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\SystemAccountService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\SystemAccountService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\SystemAccountService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\SystemAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:36:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:35:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:53:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:41:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T09:07:27.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\NewsArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:36:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\SystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\SystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\SystemAccountRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\SystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:36:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:36:39.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:35:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:23:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:41:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\SystemAccount.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:45:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ITagService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\ITagService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ITagService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\ITagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:33:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:37:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:49:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\IServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:47:32.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "INewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\INewsArticleService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\INewsArticleService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\INewsArticleService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\INewsArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:33:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:23:03.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:51:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:51:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISystemAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ISystemAccountService.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.BLL\\Services\\IServices\\ISystemAccountService.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.BLL\\Services\\IServices\\ISystemAccountService.cs",
+              "RelativeToolTip": "..\\PRN222.BLL\\Services\\IServices\\ISystemAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:35:34.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PRN222Context.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\PRN222Context.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Models\\PRN222Context.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Models\\PRN222Context.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Models\\PRN222Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:40:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\IRepositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\IRepositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:58:52.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\IRepositories\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ITagRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\IRepositories\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:46:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ISystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ISystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\IRepositories\\ISystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\ISystemAccountRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\IRepositories\\ISystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:52:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "INewsArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\INewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\IRepositories\\INewsArticleRepository.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\INewsArticleRepository.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\IRepositories\\INewsArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:53:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\PRN222.DAL\\Repositories\\IRepositories\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\daoxu\\source\\repos\\PRN222\\Asignment\\PRN222.DAL\\Repositories\\IRepositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "..\\PRN222.DAL\\Repositories\\IRepositories\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T10:52:18.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
