@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PRN222.Entity.DTOs
 {
-    class SystemAccountDTO
+    public class SystemAccountDTO
     {
 
         public string? AccountName { get; set; }

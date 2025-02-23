@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PRN222.Entity.DTOs
 {
-    class NewsArticleDTO
+    public class NewsArticleDTO
     {
         public string NewsArticleId { get; set; } = null!;
 

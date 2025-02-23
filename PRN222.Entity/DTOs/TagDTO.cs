@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PRN222.Entity.DTOs
 {
-    class TagDTO
+    public class TagDTO
     {
         public int TagId { get; set; }
 

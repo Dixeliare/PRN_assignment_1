@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PRN222.Entity.DTOs
 {
-    class CategoryDTO
+    public class CategoryDTO
     {
         public short CategoryId { get; set; }
 
