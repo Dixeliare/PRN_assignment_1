@@ -941,7 +941,8 @@
       },
       "PRN222.BLL/1.0.0": {
         "dependencies": {
-          "PRN222.DAL": "1.0.0"
+          "PRN222.DAL": "1.0.0",
+          "PRN222.Entity": "1.0.0"
         },
         "runtime": {
           "PRN222.BLL.dll": {

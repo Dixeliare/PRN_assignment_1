@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj": {
                 "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj"
+              },
+              "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.Entity\\PRN222.Entity.csproj": {
+                "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.Entity\\PRN222.Entity.csproj"
               }
             }
           }

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PRN222.DAL\PRN222.DAL.csproj" />
+    <ProjectReference Include="..\PRN222.Entity\PRN222.Entity.csproj" />
   </ItemGroup>
 
 </Project>

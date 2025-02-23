@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "PRN222.BLL/1.0.0": {
         "dependencies": {
-          "PRN222.DAL": "1.0.0"
+          "PRN222.DAL": "1.0.0",
+          "PRN222.Entity": "1.0.0"
         },
         "runtime": {
           "PRN222.BLL.dll": {}
@@ -584,6 +585,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "PRN222.Entity/1.0.0": {
+        "runtime": {
+          "PRN222.Entity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -979,6 +988,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "PRN222.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PRN222.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

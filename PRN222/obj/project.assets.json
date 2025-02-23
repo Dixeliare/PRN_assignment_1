@@ -1603,7 +1603,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "PRN222.DAL": "1.0.0"
+          "PRN222.DAL": "1.0.0",
+          "PRN222.Entity": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PRN222.BLL.dll": {}
@@ -4770,9 +4771,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222\\PRN222.csproj",
-      "projectName": "PRN222",
-      "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222\\PRN222.csproj",
+      "projectUniqueName": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222\\PRN222.Web.csproj",
+      "projectName": "PRN222.Web",
+      "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222\\PRN222.Web.csproj",
       "packagesPath": "C:\\Users\\daoxu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222\\obj\\",
       "projectStyle": "PackageReference",

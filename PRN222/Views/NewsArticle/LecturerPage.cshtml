@@ -1,14 +1,10 @@
 ﻿@model List<PRN222.DAL.Models.NewsArticle>
 
 @{
-    ViewData["Title"] = "ManageNewsArticle";
+    ViewData["Title"] = "LecturerPage";
 }
 
-<h2>Quản lý bài viết</h2>
-
-<div class="text-right mb-3">
-    <a asp-controller="NewsArticle" asp-action="CreateNewsArticle" class="btn btn-primary">Tạo mới bài viết</a>
-</div>
+<h3>FPT News</h3>
 
 <table class="table">
     <thead>
@@ -21,11 +17,10 @@
             <th>Đăng bởi</th>
             <th>Cập nhật ngày</th>
             <th>Cập nhật bởi</th>
-            <th>Hành động</th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
+        @foreach (var item in Model.Where(x => x.NewsStatus == true))
         {
             <tr>
                 <td>@item.NewsTitle</td>
@@ -36,12 +31,6 @@
                 <td>@item.CreatedBy?.AccountName</td>
                 <td>@item.ModifiedDate</td>
                 <td>@item.CreatedBy?.AccountName</td>
-                <td>
-                    <div class="d-flex gap-2">
-                        <a asp-controller="Staff" asp-action="EditCategory" asp-route-id="@item.NewsArticleId" class="btn btn-primary">Chỉnh sửa</a>
-                        <a asp-controller="Staff" asp-action="DeleteCategory" asp-route-id="@item.NewsArticleId" class="btn btn-danger">Xóa</a>
-                    </div>
-                </td>
             </tr>
         }
     </tbody>

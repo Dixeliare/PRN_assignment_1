@@ -53,7 +53,7 @@ namespace PRN222.Controllers
                     return user.AccountRole switch
                     {
                         1 => RedirectToAction("Dashboard", "Staff"),
-                        2 => RedirectToAction("NewsPage", "NewsArticle"),
+                        2 => RedirectToAction("LecturerPage", "NewsArticle"),
                         _ => RedirectToAction("NewsPage", "NewsArticle")
                     };
                 }

@@ -24,7 +24,7 @@
     </tr>
 </thead>
 <tbody>
-    @foreach (var item in Model)
+    @foreach (var item in Model.Where(x => x.NewsStatus.Equals(true)))
     { 
         <tr>
             <td>@item.NewsTitle</td>

@@ -1002,6 +1002,16 @@
         "runtime": {
           "bin/placeholder/PRN222.DAL.dll": {}
         }
+      },
+      "PRN222.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PRN222.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PRN222.Entity.dll": {}
+        }
       }
     }
   },
@@ -2757,11 +2767,17 @@
       "type": "project",
       "path": "../PRN222.DAL/PRN222.DAL.csproj",
       "msbuildProject": "../PRN222.DAL/PRN222.DAL.csproj"
+    },
+    "PRN222.Entity/1.0.0": {
+      "type": "project",
+      "path": "../PRN222.Entity/PRN222.Entity.csproj",
+      "msbuildProject": "../PRN222.Entity/PRN222.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "PRN222.DAL >= 1.0.0"
+      "PRN222.DAL >= 1.0.0",
+      "PRN222.Entity >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2798,6 +2814,9 @@
           "projectReferences": {
             "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj": {
               "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.DAL\\PRN222.DAL.csproj"
+            },
+            "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.Entity\\PRN222.Entity.csproj": {
+              "projectPath": "C:\\Users\\daoxu\\OneDrive\\Tài liệu\\GitHub\\PRN_assignment_1\\PRN222.Entity\\PRN222.Entity.csproj"
             }
           }
         }

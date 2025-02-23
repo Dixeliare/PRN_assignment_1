@@ -60,3 +60,5 @@ C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.dll
 C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\refint\PRN222.BLL.dll
 C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\PRN222.BLL.pdb
 C:\Users\LENOVO\Desktop\New folder\PRN222.BLL\obj\Debug\net9.0\ref\PRN222.BLL.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.Entity.dll
+C:\Users\daoxu\OneDrive\Tài liệu\GitHub\PRN_assignment_1\PRN222.BLL\bin\Debug\net9.0\PRN222.Entity.pdb
